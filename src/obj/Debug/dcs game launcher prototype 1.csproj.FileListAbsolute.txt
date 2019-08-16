@@ -1,0 +1,10 @@
+C:\Users\egg\source\repos\dcs game launcher prototype 1\dcs game launcher prototype 1\bin\Debug\dcs game launcher prototype 1.exe.config
+C:\Users\egg\source\repos\dcs game launcher prototype 1\dcs game launcher prototype 1\bin\Debug\dcs game launcher prototype 1.exe
+C:\Users\egg\source\repos\dcs game launcher prototype 1\dcs game launcher prototype 1\bin\Debug\dcs game launcher prototype 1.pdb
+C:\Users\egg\source\repos\dcs game launcher prototype 1\dcs game launcher prototype 1\obj\Debug\dcs game launcher prototype 1.csprojAssemblyReference.cache
+C:\Users\egg\source\repos\dcs game launcher prototype 1\dcs game launcher prototype 1\obj\Debug\dcs_game_launcher_prototype_1.Form1.resources
+C:\Users\egg\source\repos\dcs game launcher prototype 1\dcs game launcher prototype 1\obj\Debug\dcs_game_launcher_prototype_1.Properties.Resources.resources
+C:\Users\egg\source\repos\dcs game launcher prototype 1\dcs game launcher prototype 1\obj\Debug\dcs game launcher prototype 1.csproj.GenerateResource.cache
+C:\Users\egg\source\repos\dcs game launcher prototype 1\dcs game launcher prototype 1\obj\Debug\dcs game launcher prototype 1.csproj.CoreCompileInputs.cache
+C:\Users\egg\source\repos\dcs game launcher prototype 1\dcs game launcher prototype 1\obj\Debug\dcs game launcher prototype 1.exe
+C:\Users\egg\source\repos\dcs game launcher prototype 1\dcs game launcher prototype 1\obj\Debug\dcs game launcher prototype 1.pdb
